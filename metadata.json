@@ -1,0 +1,5 @@
+{
+  "name": "Malnutrition Surveillance System",
+  "description": "A high-fidelity prototype for a Child Nutrition Monitoring Dashboard designed for government and school use, featuring Z-score calculations and predictive analytics.",
+  "requestFramePermissions": []
+}
